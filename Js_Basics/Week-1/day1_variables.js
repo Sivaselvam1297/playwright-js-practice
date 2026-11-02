@@ -1,8 +1,8 @@
 // =====================================
- // WEEK 1 - JAVASCRIPT BASICS
- // DAY 1 TO DAY 7
+// WEEK 1 - JAVASCRIPT BASICS
+// DAY 1 
  // =====================================
-
+// Shift + Alt + A ::::::For Multi Line Command
 
 // DAY 1 - VARIABLES
 
