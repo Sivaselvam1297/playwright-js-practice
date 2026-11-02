@@ -1,0 +1,23 @@
+{
+  "name": "playwright-js-practice",
+  "version": "1.0.0",
+  "description": "Hands-on web automation practice, test scripts, and end-to-end framework experiments using Playwright and JavaScript/TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivaselvam1297/playwright-js-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sivaselvam1297/playwright-js-practice/issues"
+  },
+  "homepage": "https://github.com/Sivaselvam1297/playwright-js-practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
